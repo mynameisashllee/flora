@@ -5,7 +5,7 @@
 okay! my idea for this whole project is basically a big ol pretty flower that opens up when you stand near it (so, arduino with distance sensor). i spent some time coming up with this idea because i really love making crafty flowers. i regularly make pipe cleaner/chenille and crepe paper flowers for my friends and birthdays and stuff!
 
 if you don't believe me, here's my reference from valentine's day last year:
-![bouquet](https://github.com/mynameisashllee/flora/blob/main/chenillebouquet.png?raw=true)
+![bouquet](https://github.com/mynameisashllee/flora/blob/main/journalassets/chenillebouquet.png?raw=true)
 
 so i figured i'd motorise something like that. i found some stuff online like on pinterest but those flowers are like secretly protected by their makers so i'm going to have to improvise probably. i'm thinking of using an arduino, distance sensor and some servos.
 
