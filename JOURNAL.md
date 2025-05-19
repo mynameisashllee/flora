@@ -11,12 +11,12 @@ so i figured i'd motorise something like that. i found some stuff online like on
 
 this project is fairly mechanical, which means it's out of my pay grade for now. but we're here to learn! and of course my first step was to make a paper prototype-ish out of free foolscap i got handed outside my school.
 
-![paper petal](https://github.com/mynameisashllee/flora/blob/main/paperpetal.png?raw=true)
-![paper flower](https://github.com/mynameisashllee/flora/blob/main/paperflower.png?raw=true)
+![paper petal](https://github.com/mynameisashllee/flora/blob/main/journalassets/paperpetal.png?raw=true)
+![paper flower](https://github.com/mynameisashllee/flora/blob/main/journalassets/paperflower.png?raw=true)
 
 so i cut out some rough outlines, attached it to a circle and tied some string. then i tried playing around with it to figure out how the servos could get it to open and i got a rough idea. 
 
-![animation!](https://github.com/mynameisashllee/flora/blob/main/servo.gif?raw=true)
+![animation!](https://github.com/mynameisashllee/flora/blob/main/journalassets/servo.gif?raw=true)
 
 i think for the actual thing instead of directly attaching the petals i'd want to use some bendy but half rigid plastic so it can snap back into place. because when i bend out the paper it crumples and doesn't go back to normal. and i think the string can be tucked into the circle too (maybe a bigger circle of foam board or smt) so there's more structure
 
