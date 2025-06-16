@@ -54,3 +54,26 @@ things i learnt:
 and did the bom too (sort of, lol)
 
 time spent: 3 hours but spread out
+
+## 16 Jun
+oops, it's been a while.
+
+today i finally bothered to 3d model the design - the *rough* design. i'm thinking of using acrylic pipes to connect flower and base because it will likely save me a lot of time on modelling and deciding the size.
+
+here's me going absolutely insane while modelling because it took REALLY, REALLY long!
+![panic](https://github.com/mynameisashllee/flora/blob/main/journalassets/16jun/panic.gif?raw=true)
+
+anyway, this should basically show the structure of how my project will look. since a lot of my materials are like paper/cardboard/pipe, i don't want to be very exact with it because it'll likely take some trial and error to get it right. hopefully these dramatic shots (and my 3d model) can give a rough overview, though!
+
+![pic1](https://github.com/mynameisashllee/flora/blob/main/journalassets/16jun/flora.png?raw=true)
+![pic2](https://github.com/mynameisashllee/flora/blob/main/journalassets/16jun/flora3.png?raw=true)
+
+there are 8 props that will be used to hold up the petals, and string will attach the petals to the servos through the big cardboard centre. i wasted a lot of time trying to model the petals but here's a handy diagram of how they (and everything) should look.
+
+![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/16jun/annotate.png?raw=true)
+
+i also did my firmware...! everything is in the production folder including wiring. truly appreciating online tutorials because they made my code and it's been forever since i used c++. i get why my friends who do robotics crash out all the time. i suspect that will be me soon.
+
+next up i will finalise my bom... when i have the time.
+
+time spent: 5 hours

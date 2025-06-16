@@ -20,3 +20,7 @@ a flower that blooms the closer you get to it! uses arduino uno + crafty craftin
 | MG 996R servos            | to move the large petals          |                 |                |                 |
 | battery case              | to hold batteries                 |                 |                |                 |
 | AA batteries              | to power servos                   |                 |                |                 |
+
+
+## inspo
+i actually had this idea myself but upon googling i found this wonderful inspiration and absolutely had to mention it - [the tiktok](https://www.tiktok.com/@ingawoods.waight/video/7220271294841998638?lang=en). she made it in a *weekend* and i'm trying to model how my project looks after hers! huge props.
