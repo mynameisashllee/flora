@@ -5,6 +5,7 @@ i wanted to make it because i make a lot of pipe cleaner/paper flowers so i was 
 
 ## screenshots
 ![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/16jun/annotate.png?raw=true)
+![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/18may/servo.gif?raw=true)
 ![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/21may/circuit.png?raw=true)
 
 
