@@ -1,7 +1,11 @@
 # flora
-a flower that blooms the closer you get to it! uses arduino uno + crafty crafting
+a flower that blooms the closer you get to it and closes up when you're further away! 
+
+i wanted to make it because i make a lot of pipe cleaner/paper flowers so i was wondering if there was a way to make my flowers a hardware project. after some deliberation i figured this was a pretty fun project since i've never really worked with arduino before, i get to engineer the flower to be large and it's fun craft-wise also.
 
 ## screenshots
+![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/16jun/annotate.png?raw=true)
+![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/21may/circuit.png?raw=true)
 
 
 ## bom

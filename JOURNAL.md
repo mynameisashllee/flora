@@ -1,4 +1,4 @@
-# journaling my journeying
+# journaling my journeying (12h total)
 
 ## 18-19 May (not very specifically documented sorry. i forgot)
 
