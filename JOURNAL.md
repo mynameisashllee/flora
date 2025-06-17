@@ -1,4 +1,4 @@
-# journaling my journeying (12h total)
+# journaling my journeying (13h total)
 
 ## 18-19 May (not very specifically documented sorry. i forgot)
 
@@ -77,3 +77,14 @@ i also did my firmware...! everything is in the production folder including wiri
 next up i will finalise my bom... when i have the time.
 
 time spent: 5 hours
+
+## 17 Jun
+
+took a break from studying today to finish up my BOM!
+
+![tabs](https://github.com/mynameisashllee/flora/blob/main/journalassets/17jun/tabs.png?raw=true)
+
+it has been done. i think i might submit now after a final few checks!
+
+time spent: 1 hour
+

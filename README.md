@@ -1,12 +1,17 @@
 # flora
-a flower that blooms the closer you get to it and closes up when you're further away! 
+a big crepe paper flower that blooms the closer you get to it and closes up when you're further away! 
 
 i wanted to make it because i make a lot of pipe cleaner/paper flowers so i was wondering if there was a way to make my flowers a hardware project. after some deliberation i figured this was a pretty fun project since i've never really worked with arduino before, i get to engineer the flower to be large and it's fun craft-wise also.
 
 ## screenshots
 ![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/16jun/annotate.png?raw=true)
+how the whole thing is planned to look - exact measurements to be done once i have more of the materials.
+
 ![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/18may/servo.gif?raw=true)
+how the servos turn
+
 ![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/21may/circuit.png?raw=true)
+wiring my arduino (4 aa batteries for power)
 
 
 ## bom
