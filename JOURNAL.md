@@ -1,4 +1,4 @@
-# journaling my journeying (13h total)
+# journaling my journeying (17h total)
 
 ## 18-19 May (not very specifically documented sorry. i forgot)
 
@@ -91,9 +91,11 @@ time spent: 1 hour
 ## 27 Jun
 
 building!! my parts are all here and i was super excited to start.
+
 ![parts](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jun/parts1.png?raw=true)
 
 first order of business was making sure my electronics work. so i took everything and wired it according to my diagram.
+
 ![wired](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jun/wired.png?raw=true)
 
 so initially i was freaking out because when i uploaded my firmware: 1. there were syntax errors (thanks c++) because i forgot semicolons and variable definitions like everywhere 2. MY SERVOS DIDN'T WORK 
@@ -102,16 +104,22 @@ so i started on debugging and i realised that, like a fool, i had forgotten to l
 
 in order to actually test my code and stop crashing out i just linked it to the arduino and disconnected it from power like every 20 seconds while hoping it didn't get fried. i'll probably go get some normal battery packs soon. i'm also regretting getting such short wires because i'm not super sure how everything's going to look on the whole flower structure BUT whatever.
 
-once my servos worked, i had some more logic errors which made the servos reset every time they ran the open and close functions (????) 
+once my servos worked, i had some more logic errors which made the servos reset every time they ran the open and close functions 
+
 ![janked](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jun/janked.gif?raw=true)
 
+(????)
+
 so i set out to fix it with some irritating comments
+
 ![code](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jun/code.png?raw=true)
 
 after a bunch of hard work, here are my servos... working as intended! i'll probably have to cut the servo horn in half before i start assembling so it doesn't hit the cardboard.
+
 ![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jun/working.gif?raw=true)
 
 also my crepe paper is here too, with surprisingly good quality. here's a petal model which is how it will look on the flower! (but bigger, probably)
+
 ![petal](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jun/petal.png?raw=true)
 
 i spent a lot of time on the floor today. my knees hurt. i stabbed my finger with a pen. back for more next time.
