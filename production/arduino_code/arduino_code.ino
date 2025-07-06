@@ -13,6 +13,8 @@ const int DISTANCE = 150;
 #define USMAX  2400 // This is the rounded 'maximum' microsecond length based on the maximum pulse of 600
 #define SERVO_FREQ 50 // Analog servos run at ~50 Hz updates
 
+bool isOpen = false;
+
 void setup() {
   Serial.begin(9600);
   pinMode(TRIG, OUTPUT); // setting pins
@@ -20,55 +22,59 @@ void setup() {
 
   pwm.begin();
   pwm.setPWMFreq(SERVO_FREQ);
+  Serial.println("Hello world");
+
 
 }
 
 void loop() {
-  digitalWrite(trigPin, LOW);
+  digitalWrite(TRIG, LOW);
   delayMicroseconds(2);
-  // Sets the trigPin on HIGH state for 10 micro seconds
-  digitalWrite(trigPin, HIGH);
+  digitalWrite(TRIG, HIGH);
   delayMicroseconds(10);
-  digitalWrite(trigPin, LOW);
+  digitalWrite(TRIG, LOW);
 
-  float duration = pulseIn(echoPin, HIGH);
+  float duration = pulseIn(ECHO, HIGH);
   float distance = duration * 0.017;
 
   Serial.print("Distance: ");
   Serial.println(distance);
-
+  // if dist < max, if not open, open it. if open, run open w return func
+  // else if open, close. if close, run close w return func
   if (distance < DISTANCE) {
-    close();
-  } else {
     open();
+  } else {
+    close();
   }
 
   delay(100);
 
 }
 
-void open() {
-  for (int pos = SERVOMIN; pos < SERVOMAX; pos += 10); {
+void open() { //from 0 to 180
+  if (isOpen) return;
+  for (int pos = SERVOMIN; pos < SERVOMAX; pos += 10) {
     pwm.setPWM(0, 0, pos);
     pwm.setPWM(1, 0, pos);
     pwm.setPWM(2, 0, pos);
     pwm.setPWM(3, 0, pos);
-    Serial.println("0");
     delay(50);
   }
-
+  Serial.println("open");
+  isOpen = true;
   delay(5000);
 }
 
-void close() {
-  for (int pos = SERVOMAX; pos > SERVOMIN; pos -= 10); {
-    pwm.setPWM(0, 0, pos_m);
-    pwm.setPWM(1, 0, pos_m);
-    pwm.setPWM(2, 0, pos_m);
-    pwm.setPWM(3, 0, pos_m);
-    Serial.println("180");
+void close() { //from 180 to 0
+  if (!isOpen) return;
+  for (int pos = SERVOMAX; pos > SERVOMIN; pos -= 10) {
+    pwm.setPWM(0, 0, pos);
+    pwm.setPWM(1, 0, pos);
+    pwm.setPWM(2, 0, pos);
+    pwm.setPWM(3, 0, pos);
     delay(50);
   }
-
+  Serial.println("close");
+  isOpen = false;
   delay(5000);
 }

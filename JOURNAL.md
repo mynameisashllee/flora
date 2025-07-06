@@ -1,4 +1,4 @@
-# journaling my journeying (17h total)
+# journaling my journeying (25h total)
 
 ## 18-19 May (not very specifically documented sorry. i forgot)
 
@@ -125,3 +125,57 @@ also my crepe paper is here too, with surprisingly good quality. here's a petal 
 i spent a lot of time on the floor today. my knees hurt. i stabbed my finger with a pen. back for more next time.
 
 time spent: 4 hours
+
+## 5 July 
+now that my circuit was ready, it was time to begin. today was the day i would finish it all. (or the base, anyway.) 
+
+first off, i decided to actually cut the servo horns. using the power of wire cutters and sheer brute strength, i actually managed to do it all myself! 
+
+![horn](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/horn.png?raw=true)
+
+my hands were very, very red afterwards. i definitely do not recommend this step and if you ever find one sided servo horns you should just use those instead.
+
+![hands](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/hands.png?raw=true)
+
+next, i scoured through my house for spare cardboard, and we had some nice thick boxes! the only problem was that there were folds at the places where i wanted to cut out the circle, but i figured i'd double layer the cardboard to make it sturdier.
+
+![cardboard](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/cardboard.png?raw=true)
+
+then i laid out the servos in the intended circlular orientation to figure out the correct way to open and close the petals. i made this high quality diagram to show the directions of the servos when the flower is 'open' for reference.
+
+![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/diagram.jpg?raw=true)
+
+i then took to my collar stays with a heated screwdriver (the sad part was that it's a magnetic screwdriver with different heads and i think i ruined the magnetism by heating it) and poked some holes in them to tie the string. 
+
+![collarstays](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/collarstays.png?raw=true)
+
+assembly time!! i taped the servos in positions and tied two collar stays to a servo with the fishing line. 
+
+![circlecardboard](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/circlecardboard.png?raw=true)
+
+![fail](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/fail.mov?raw=true)
+
+when i powered up the servos i was like, woah! this is so cool! it works! 
+
+![fail2](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/fail2.mov?raw=true)
+
+then i went oh no, because only half the collar stays were being pulled open. after analysing the front and back i realised that the servos were in a position where they were closer to one of the collar stays, so there wasn't an even distribution of torque between the two and one of the collar stays just closed up more.
+
+once i fixed the orientation, i realised that my cardboard circle was really small and the servos would just knock into each other so i elevated two of them with a hot glued contraption of spare cardboard.
+
+![fixed](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/fixed.png?raw=true)
+![elevated](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/elevated.png?raw=true)
+
+and voila!! it worked.
+
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/working.png?raw=true)
+
+then i got to work securing everything properly with hot glue and my circuit kind of came apart. suddenly... once i rewired everything the servos JUST STOPPED WORKING. they heated up a lot and just didnt move at all even though power was going through the circuit. at this point it was 12am, and i was crashing out and just let it go. good night.
+
+(8 hours)
+
+## 7 July
+so after consulting with the slack, i got really terrified that my servos were just totally fried. after checking my wiring properly i realised that i had just wired my servo driver into the wrong GPIO pin on my arduino. i felt like a fool. on the bright side, it works now! properly! but no day comes without its challenges, and today's challenge was that i tied some of the fishing lines too tight so one of the servos just popped off the base and some of the lines snapped. but once i fix this, it'll definitely work!
+
+
+
