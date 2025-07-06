@@ -153,11 +153,11 @@ assembly time!! i taped the servos in positions and tied two collar stays to a s
 
 ![circlecardboard](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/circlecardboard.png?raw=true)
 
-![fail](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/fail.mov?raw=true)
+[![fail](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/fail.png?raw=true)](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/fail.mov?raw=true)
 
 when i powered up the servos i was like, woah! this is so cool! it works! 
 
-![fail2](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/fail2.mov?raw=true)
+[![fail2](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/fail.png?raw=true)](https://github.com/mynameisashllee/flora/blob/main/journalassets/5jul/fail2.mov?raw=true)
 
 then i went oh no, because only half the collar stays were being pulled open. after analysing the front and back i realised that the servos were in a position where they were closer to one of the collar stays, so there wasn't an even distribution of torque between the two and one of the collar stays just closed up more.
 
