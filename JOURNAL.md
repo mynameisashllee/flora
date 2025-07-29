@@ -187,6 +187,10 @@ and here's all 8 of the moving petals! in action!! i'm so excited honestly.
 
 
 
+https://github.com/user-attachments/assets/9ec3462b-fdc6-45b9-ad6f-49686b10f35d
+
+
+
 i think my next problem is like... worrying about how i'm gonna find a stand and. put it together. maybe i'll find some old lamp like someone suggested and stick the components on the back where they can't be seen or something.
 
 (2 hours)
@@ -225,8 +229,6 @@ https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/eyes.png?
 with the distance sensor 'eyes' and the arduino cable 'tail' it kind of looks like a woodland creature with a flower hat, which is pretty cute honestly. and i also wrapped the whole thing in masking tape so it'd be easy to paint! (it still took very long, but it was less painful, i guess). and here's my final product for the day.
 
 https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/final.png?raw=true
-
-
 
 after this, i started freaking out because the thing suddenly wasn't working! but it turned out to just be the batteries running out of juice. which is easily solvable because they're rechargeable (: yay
 (4 hours)
