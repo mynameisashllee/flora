@@ -53,7 +53,7 @@ void loop() {
 
 void open() { //from 0 to 180
   if (isOpen) return;
-  for (int pos = SERVOMIN; pos < SERVOMAX; pos += 10) {
+  for (int pos = SERVOMIN; pos < 400; pos += 10) {
     pwm.setPWM(0, 0, pos);
     pwm.setPWM(1, 0, pos);
     pwm.setPWM(2, 0, pos);
@@ -67,7 +67,7 @@ void open() { //from 0 to 180
 
 void close() { //from 180 to 0
   if (!isOpen) return;
-  for (int pos = SERVOMAX; pos > SERVOMIN; pos -= 10) {
+  for (int pos = 400; pos > SERVOMIN; pos -= 10) {
     pwm.setPWM(0, 0, pos);
     pwm.setPWM(1, 0, pos);
     pwm.setPWM(2, 0, pos);
