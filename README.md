@@ -4,10 +4,13 @@ a big crepe paper flower that blooms the closer you get to it and closes up when
 i wanted to make it because i make a lot of pipe cleaner/paper flowers so i was wondering if there was a way to make my flowers a hardware project. after some deliberation i figured this was a pretty fun thing to do for my first arduino project! i get to make it huge and pretty and crafty too, which is great.
 
 ## build
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/full.png?raw=true)
+
+check out the demo at: https://youtube.com/shorts/-0WjDwjGv3M?feature=share
 
 ## screenshots
 ![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/16jun/annotate.png?raw=true)
-how the whole thing is planned to look - exact measurements to be done once i have more of the materials.
+render of how the whole thing was planned to look - it's been changed up a bit!
 
 ![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/18may/servo.gif?raw=true)
 how the servos turn

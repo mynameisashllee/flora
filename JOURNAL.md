@@ -198,59 +198,60 @@ i think my next problem is like... worrying about how i'm gonna find a stand and
 ## 27 July
 okay! i've officially decided on this old bottle. 
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/bottle.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/bottle.png?raw=true)
 
 i guess this project is gonna be eco friendly because i've been using a bunch of recycled cardboard too. i was kind of apprehensive about this being my stem because it was kind of thick but i realised it can hide all my components inside. which is pretty much a win.
 
 so first i taped up my servo wires, and cut up some styrofoam (which makes a really irritating noise) because i had to make a sturdy structure for the whole flower to sit on. (i also nixed the sideways design because. no materials. no time. it'll be upright now)
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/styrofoam.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/styrofoam.png?raw=true)
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/servotape.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/servotape.png?raw=true)
 
 here's the final structure, which i glued onto the lid of the bottle. i also used my messed up soldering iron tip to poke a hole into the lid for the servo wires to go through. and here it is semi-assembled. what a beauty.
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/lid.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/lid.png?raw=true)
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/semiassembled.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/semiassembled.png?raw=true)
 
 i also decided to take a chance on my soldering skills and solder the battery wires because they were really unstable connections when i used the jumpers. and it worked! i love soldering. so right now the 4.7v batteries power the servos and an external source (power bank/laptop) powers the arduino.
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/solder.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/solder.png?raw=true)
 
 also, i stuck all the other circuit components on cardboard to fit inside the bottle neatly. so i taped up and hot glued my jumper wires to make this slightly cryptid-looking thing.
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/wiring.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/wiring.png?raw=true)
 
 of course, the distance sensor has to peek out, so i cut (melted) out a hole for it.
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/eyes.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/eyes.png?raw=true)
 
 with the distance sensor 'eyes' and the arduino cable 'tail' it kind of looks like a woodland creature with a flower hat, which is pretty cute honestly. and i also wrapped the whole thing in masking tape so it'd be easy to paint! (it still took very long, but it was less painful, i guess). and here's my final product for the day.
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/final.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/27jul/final.png?raw=true)
 
 after this, i started freaking out because the thing suddenly wasn't working! but it turned out to just be the batteries running out of juice. which is easily solvable because they're rechargeable (: yay
+
 (4 hours)
 
 ## 29 July
 the final stretch! i spent a while painting the whole stem (and arduino cable) green, tested the flower again with charged batteries to make sure it worked, and began cutting, like, 10 more big petals.
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/cutting.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/cutting.png?raw=true)
 
 i also made a mini rose structure to fill up the middle space.
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/rose.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/rose.png?raw=true)
 
 here's the whole thing!
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/full.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/full.png?raw=true)
 
 and here's it open and closed from the top view. 
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/close.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/close.png?raw=true)
 
-https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/open.png?raw=true
+![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/open.png?raw=true)
 
 it's so pretty. i'm also so happy it's finally done. BYE BYE! like and subscribe.
 
