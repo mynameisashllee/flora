@@ -6,7 +6,7 @@ i wanted to make it because i make a lot of pipe cleaner/paper flowers so i was 
 ## build
 ![working](https://github.com/mynameisashllee/flora/blob/main/journalassets/29jul/full.png?raw=true)
 
-check out the demo at: https://youtube.com/shorts/-0WjDwjGv3M?feature=share
+check out the demo on [youtube!](https://youtu.be/ohb0CGSC3Qs)
 
 ## screenshots
 ![diagram](https://github.com/mynameisashllee/flora/blob/main/journalassets/16jun/annotate.png?raw=true)
